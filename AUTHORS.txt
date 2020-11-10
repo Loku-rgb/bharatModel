@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d3fcadf149ae28dd9fac47daa0a396a16b8c84c6e5b3d1de3f61983583ce7e2a
-size 31
+David Zurow <daanzu@gmail.com>

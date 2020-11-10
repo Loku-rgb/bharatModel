@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88b819d2ec48842affe9ab47890d3817d71526c6b3e36be3a87bbec076f2df9b
-size 118
+*mdl filter=lfs diff=lfs merge=lfs -text
+*.mdl filter=lfs diff=lfs merge=lfs -text
+*.fst filter=lfs diff=lfs merge=lfs -text
+*.carpa filter=lfs diff=lfs merge=lfs -text
